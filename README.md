@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil Teljeeru</h1>
-<h3 align="center">Computer Science Student | Cybersecurity Enthusiast | Backend Developer</h3>
+<h3 align="center">Computer Science Student | Cyber security|AI/ML Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akhilteljeeru&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -63,8 +63,8 @@ Python • Git • GitHub • Linux • VS Code • MySQL
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: https://linkedin.com/in/your-link  
+📧 Email: akhilteljeeru@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/akhil-teljeeru/  
 
 ---
 
